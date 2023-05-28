@@ -1,0 +1,14 @@
+.accueil {
+    background-color: wheat;
+
+    .inner {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        h1 {
+            margin: 0;
+        }
+    }
+
+}
